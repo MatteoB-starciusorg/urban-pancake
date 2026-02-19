@@ -1,0 +1,848 @@
+[
+    {
+        "number": 1,
+        "factors": [
+            "1x1"
+        ],
+        "isPrime": false
+    },
+    {
+        "number": 2,
+        "factors": [
+            "1x2"
+        ],
+        "isPrime": true
+    },
+    {
+        "number": 3,
+        "factors": [
+            "1x3"
+        ],
+        "isPrime": true
+    },
+    {
+        "number": 4,
+        "factors": [
+            "1x4",
+            "2x2"
+        ],
+        "isPrime": false
+    },
+    {
+        "number": 5,
+        "factors": [
+            "1x5"
+        ],
+        "isPrime": true
+    },
+    {
+        "number": 6,
+        "factors": [
+            "1x6",
+            "2x3"
+        ],
+        "isPrime": false
+    },
+    {
+        "number": 7,
+        "factors": [
+            "1x7"
+        ],
+        "isPrime": true
+    },
+    {
+        "number": 8,
+        "factors": [
+            "1x8",
+            "2x4"
+        ],
+        "isPrime": false
+    },
+    {
+        "number": 9,
+        "factors": [
+            "1x9",
+            "3x3"
+        ],
+        "isPrime": false
+    },
+    {
+        "number": 10,
+        "factors": [
+            "1x10",
+            "2x5"
+        ],
+        "isPrime": false
+    },
+    {
+        "number": 11,
+        "factors": [
+            "1x11"
+        ],
+        "isPrime": true
+    },
+    {
+        "number": 12,
+        "factors": [
+            "1x12",
+            "2x6",
+            "3x4"
+        ],
+        "isPrime": false
+    },
+    {
+        "number": 13,
+        "factors": [
+            "1x13"
+        ],
+        "isPrime": true
+    },
+    {
+        "number": 14,
+        "factors": [
+            "1x14",
+            "2x7"
+        ],
+        "isPrime": false
+    },
+    {
+        "number": 15,
+        "factors": [
+            "1x15",
+            "3x5"
+        ],
+        "isPrime": false
+    },
+    {
+        "number": 16,
+        "factors": [
+            "1x16",
+            "2x8",
+            "4x4"
+        ],
+        "isPrime": false
+    },
+    {
+        "number": 17,
+        "factors": [
+            "1x17"
+        ],
+        "isPrime": true
+    },
+    {
+        "number": 18,
+        "factors": [
+            "1x18",
+            "2x9",
+            "3x6"
+        ],
+        "isPrime": false
+    },
+    {
+        "number": 19,
+        "factors": [
+            "1x19"
+        ],
+        "isPrime": true
+    },
+    {
+        "number": 20,
+        "factors": [
+            "1x20",
+            "2x10",
+            "4x5"
+        ],
+        "isPrime": false
+    },
+    {
+        "number": 21,
+        "factors": [
+            "1x21",
+            "3x7"
+        ],
+        "isPrime": false
+    },
+    {
+        "number": 22,
+        "factors": [
+            "1x22",
+            "2x11"
+        ],
+        "isPrime": false
+    },
+    {
+        "number": 23,
+        "factors": [
+            "1x23"
+        ],
+        "isPrime": true
+    },
+    {
+        "number": 24,
+        "factors": [
+            "1x24",
+            "2x12",
+            "3x8",
+            "4x6"
+        ],
+        "isPrime": false
+    },
+    {
+        "number": 25,
+        "factors": [
+            "1x25",
+            "5x5"
+        ],
+        "isPrime": false
+    },
+    {
+        "number": 26,
+        "factors": [
+            "1x26",
+            "2x13"
+        ],
+        "isPrime": false
+    },
+    {
+        "number": 27,
+        "factors": [
+            "1x27",
+            "3x9"
+        ],
+        "isPrime": false
+    },
+    {
+        "number": 28,
+        "factors": [
+            "1x28",
+            "2x14",
+            "4x7"
+        ],
+        "isPrime": false
+    },
+    {
+        "number": 29,
+        "factors": [
+            "1x29"
+        ],
+        "isPrime": true
+    },
+    {
+        "number": 30,
+        "factors": [
+            "1x30",
+            "2x15",
+            "3x10",
+            "5x6"
+        ],
+        "isPrime": false
+    },
+    {
+        "number": 31,
+        "factors": [
+            "1x31"
+        ],
+        "isPrime": true
+    },
+    {
+        "number": 32,
+        "factors": [
+            "1x32",
+            "2x16",
+            "4x8"
+        ],
+        "isPrime": false
+    },
+    {
+        "number": 33,
+        "factors": [
+            "1x33",
+            "3x11"
+        ],
+        "isPrime": false
+    },
+    {
+        "number": 34,
+        "factors": [
+            "1x34",
+            "2x17"
+        ],
+        "isPrime": false
+    },
+    {
+        "number": 35,
+        "factors": [
+            "1x35",
+            "5x7"
+        ],
+        "isPrime": false
+    },
+    {
+        "number": 36,
+        "factors": [
+            "1x36",
+            "2x18",
+            "3x12",
+            "4x9",
+            "6x6"
+        ],
+        "isPrime": false
+    },
+    {
+        "number": 37,
+        "factors": [
+            "1x37"
+        ],
+        "isPrime": true
+    },
+    {
+        "number": 38,
+        "factors": [
+            "1x38",
+            "2x19"
+        ],
+        "isPrime": false
+    },
+    {
+        "number": 39,
+        "factors": [
+            "1x39",
+            "3x13"
+        ],
+        "isPrime": false
+    },
+    {
+        "number": 40,
+        "factors": [
+            "1x40",
+            "2x20",
+            "4x10",
+            "5x8"
+        ],
+        "isPrime": false
+    },
+    {
+        "number": 41,
+        "factors": [
+            "1x41"
+        ],
+        "isPrime": true
+    },
+    {
+        "number": 42,
+        "factors": [
+            "1x42",
+            "2x21",
+            "3x14",
+            "6x7"
+        ],
+        "isPrime": false
+    },
+    {
+        "number": 43,
+        "factors": [
+            "1x43"
+        ],
+        "isPrime": true
+    },
+    {
+        "number": 44,
+        "factors": [
+            "1x44",
+            "2x22",
+            "4x11"
+        ],
+        "isPrime": false
+    },
+    {
+        "number": 45,
+        "factors": [
+            "1x45",
+            "3x15",
+            "5x9"
+        ],
+        "isPrime": false
+    },
+    {
+        "number": 46,
+        "factors": [
+            "1x46",
+            "2x23"
+        ],
+        "isPrime": false
+    },
+    {
+        "number": 47,
+        "factors": [
+            "1x47"
+        ],
+        "isPrime": true
+    },
+    {
+        "number": 48,
+        "factors": [
+            "1x48",
+            "2x24",
+            "3x16",
+            "4x12",
+            "6x8"
+        ],
+        "isPrime": false
+    },
+    {
+        "number": 49,
+        "factors": [
+            "1x49",
+            "7x7"
+        ],
+        "isPrime": false
+    },
+    {
+        "number": 50,
+        "factors": [
+            "1x50",
+            "2x25",
+            "5x10"
+        ],
+        "isPrime": false
+    },
+    {
+        "number": 51,
+        "factors": [
+            "1x51",
+            "3x17"
+        ],
+        "isPrime": false
+    },
+    {
+        "number": 52,
+        "factors": [
+            "1x52",
+            "2x26",
+            "4x13"
+        ],
+        "isPrime": false
+    },
+    {
+        "number": 53,
+        "factors": [
+            "1x53"
+        ],
+        "isPrime": true
+    },
+    {
+        "number": 54,
+        "factors": [
+            "1x54",
+            "2x27",
+            "3x18",
+            "6x9"
+        ],
+        "isPrime": false
+    },
+    {
+        "number": 55,
+        "factors": [
+            "1x55",
+            "5x11"
+        ],
+        "isPrime": false
+    },
+    {
+        "number": 56,
+        "factors": [
+            "1x56",
+            "2x28",
+            "4x14",
+            "7x8"
+        ],
+        "isPrime": false
+    },
+    {
+        "number": 57,
+        "factors": [
+            "1x57",
+            "3x19"
+        ],
+        "isPrime": false
+    },
+    {
+        "number": 58,
+        "factors": [
+            "1x58",
+            "2x29"
+        ],
+        "isPrime": false
+    },
+    {
+        "number": 59,
+        "factors": [
+            "1x59"
+        ],
+        "isPrime": true
+    },
+    {
+        "number": 60,
+        "factors": [
+            "1x60",
+            "2x30",
+            "3x20",
+            "4x15",
+            "5x12",
+            "6x10"
+        ],
+        "isPrime": false
+    },
+    {
+        "number": 61,
+        "factors": [
+            "1x61"
+        ],
+        "isPrime": true
+    },
+    {
+        "number": 62,
+        "factors": [
+            "1x62",
+            "2x31"
+        ],
+        "isPrime": false
+    },
+    {
+        "number": 63,
+        "factors": [
+            "1x63",
+            "3x21",
+            "7x9"
+        ],
+        "isPrime": false
+    },
+    {
+        "number": 64,
+        "factors": [
+            "1x64",
+            "2x32",
+            "4x16",
+            "8x8"
+        ],
+        "isPrime": false
+    },
+    {
+        "number": 65,
+        "factors": [
+            "1x65",
+            "5x13"
+        ],
+        "isPrime": false
+    },
+    {
+        "number": 66,
+        "factors": [
+            "1x66",
+            "2x33",
+            "3x22",
+            "6x11"
+        ],
+        "isPrime": false
+    },
+    {
+        "number": 67,
+        "factors": [
+            "1x67"
+        ],
+        "isPrime": true
+    },
+    {
+        "number": 68,
+        "factors": [
+            "1x68",
+            "2x34",
+            "4x17"
+        ],
+        "isPrime": false
+    },
+    {
+        "number": 69,
+        "factors": [
+            "1x69",
+            "3x23"
+        ],
+        "isPrime": false
+    },
+    {
+        "number": 70,
+        "factors": [
+            "1x70",
+            "2x35",
+            "5x14",
+            "7x10"
+        ],
+        "isPrime": false
+    },
+    {
+        "number": 71,
+        "factors": [
+            "1x71"
+        ],
+        "isPrime": true
+    },
+    {
+        "number": 72,
+        "factors": [
+            "1x72",
+            "2x36",
+            "3x24",
+            "4x18",
+            "6x12",
+            "8x9"
+        ],
+        "isPrime": false
+    },
+    {
+        "number": 73,
+        "factors": [
+            "1x73"
+        ],
+        "isPrime": true
+    },
+    {
+        "number": 74,
+        "factors": [
+            "1x74",
+            "2x37"
+        ],
+        "isPrime": false
+    },
+    {
+        "number": 75,
+        "factors": [
+            "1x75",
+            "3x25",
+            "5x15"
+        ],
+        "isPrime": false
+    },
+    {
+        "number": 76,
+        "factors": [
+            "1x76",
+            "2x38",
+            "4x19"
+        ],
+        "isPrime": false
+    },
+    {
+        "number": 77,
+        "factors": [
+            "1x77",
+            "7x11"
+        ],
+        "isPrime": false
+    },
+    {
+        "number": 78,
+        "factors": [
+            "1x78",
+            "2x39",
+            "3x26",
+            "6x13"
+        ],
+        "isPrime": false
+    },
+    {
+        "number": 79,
+        "factors": [
+            "1x79"
+        ],
+        "isPrime": true
+    },
+    {
+        "number": 80,
+        "factors": [
+            "1x80",
+            "2x40",
+            "4x20",
+            "5x16",
+            "8x10"
+        ],
+        "isPrime": false
+    },
+    {
+        "number": 81,
+        "factors": [
+            "1x81",
+            "3x27",
+            "9x9"
+        ],
+        "isPrime": false
+    },
+    {
+        "number": 82,
+        "factors": [
+            "1x82",
+            "2x41"
+        ],
+        "isPrime": false
+    },
+    {
+        "number": 83,
+        "factors": [
+            "1x83"
+        ],
+        "isPrime": true
+    },
+    {
+        "number": 84,
+        "factors": [
+            "1x84",
+            "2x42",
+            "3x28",
+            "4x21",
+            "6x14",
+            "7x12"
+        ],
+        "isPrime": false
+    },
+    {
+        "number": 85,
+        "factors": [
+            "1x85",
+            "5x17"
+        ],
+        "isPrime": false
+    },
+    {
+        "number": 86,
+        "factors": [
+            "1x86",
+            "2x43"
+        ],
+        "isPrime": false
+    },
+    {
+        "number": 87,
+        "factors": [
+            "1x87",
+            "3x29"
+        ],
+        "isPrime": false
+    },
+    {
+        "number": 88,
+        "factors": [
+            "1x88",
+            "2x44",
+            "4x22",
+            "8x11"
+        ],
+        "isPrime": false
+    },
+    {
+        "number": 89,
+        "factors": [
+            "1x89"
+        ],
+        "isPrime": true
+    },
+    {
+        "number": 90,
+        "factors": [
+            "1x90",
+            "2x45",
+            "3x30",
+            "5x18",
+            "6x15",
+            "9x10"
+        ],
+        "isPrime": false
+    },
+    {
+        "number": 91,
+        "factors": [
+            "1x91",
+            "7x13"
+        ],
+        "isPrime": false
+    },
+    {
+        "number": 92,
+        "factors": [
+            "1x92",
+            "2x46",
+            "4x23"
+        ],
+        "isPrime": false
+    },
+    {
+        "number": 93,
+        "factors": [
+            "1x93",
+            "3x31"
+        ],
+        "isPrime": false
+    },
+    {
+        "number": 94,
+        "factors": [
+            "1x94",
+            "2x47"
+        ],
+        "isPrime": false
+    },
+    {
+        "number": 95,
+        "factors": [
+            "1x95",
+            "5x19"
+        ],
+        "isPrime": false
+    },
+    {
+        "number": 96,
+        "factors": [
+            "1x96",
+            "2x48",
+            "3x32",
+            "4x24",
+            "6x16",
+            "8x12"
+        ],
+        "isPrime": false
+    },
+    {
+        "number": 97,
+        "factors": [
+            "1x97"
+        ],
+        "isPrime": true
+    },
+    {
+        "number": 98,
+        "factors": [
+            "1x98",
+            "2x49",
+            "7x14"
+        ],
+        "isPrime": false
+    },
+    {
+        "number": 99,
+        "factors": [
+            "1x99",
+            "3x33",
+            "9x11"
+        ],
+        "isPrime": false
+    },
+    {
+        "number": 100,
+        "factors": [
+            "1x100",
+            "2x50",
+            "4x25",
+            "5x20",
+            "10x10"
+        ],
+        "isPrime": false
+    }
+]

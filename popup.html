@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Rocket Math Bot</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+  <div class="container">
+    <div class="header">
+      <h1>🚀 Rocket Math Bot</h1>
+      <div id="statusBadge" class="status-badge status-stopped">Stopped</div>
+    </div>
+
+    <div class="content">
+      <label class="race-toggle" for="raceModeToggle">
+        <span class="race-label">🏁 Race Mode</span>
+        <input type="checkbox" id="raceModeToggle">
+        <span class="race-slider"></span>
+      </label>
+
+      <div class="mode-section">
+        <p class="mode-label">Select Mode:</p>
+        <div class="mode-options">
+          <label class="mode-option">
+            <input type="radio" name="botMode" value="equivalent-fractions">
+            <span>Equivalent Fractions</span>
+          </label>
+          <label class="mode-option">
+            <input type="radio" name="botMode" value="factors-primes">
+            <span>Factors & Primes</span>
+          </label>
+        </div>
+      </div>
+
+      <button id="toggleBtn" class="toggle-btn btn-start">
+        Start Bot
+      </button>
+
+      <div class="cheats-section">
+        <p class="cheats-label">⚡ Cheats:</p>
+        <button id="skipBreakBtn" class="cheat-btn">
+          Skip 20-Min Break
+        </button>
+        <label class="cheat-option">
+          <input type="checkbox" id="skipAnimToggle">
+          <span>⚡ Skip Animations</span>
+        </label>
+        <label class="cheat-option">
+          <input type="checkbox" id="freezeTimerToggle">
+          <span>❄️ Freeze Timer</span>
+        </label>
+      </div>
+
+      <div class="god-mode-section">
+        <p class="god-mode-label">🔥 God Mode:</p>
+        <div class="god-mode-counter">
+          <span id="godModeUsesLeft">5</span> uses remaining
+        </div>
+        <button id="instantPhaseBtn" class="god-mode-btn">
+          ⏩ Instant Phase Complete
+        </button>
+        <button id="instantRaceBtn" class="god-mode-btn">
+          🏆 Instant Race Win
+        </button>
+        <button id="stealthModeBtn" class="god-mode-btn">
+          🥷 Toggle Stealth Mode
+        </button>
+      </div>
+
+      <div id="enterPrompt" class="enter-prompt" style="display:none;">
+        ⚡ Quick press ENTER!
+      </div>
+
+      <div id="lastAnswerSection" class="info-section" style="display:none;">
+        <p class="info-text">Last Answer: <strong id="lastAnswer"></strong></p>
+      </div>
+
+      <div id="errorSection" class="info-section" style="display:none;">
+        <p class="error-text" id="errorMessage"></p>
+      </div>
+
+      <div class="log-section">
+        <p class="log-label">Activity Log:</p>
+        <div id="logArea" class="log-area"></div>
+      </div>
+    </div>
+  </div>
+
+  <script src="popup.js"></script>
+</body>
+
+</html>

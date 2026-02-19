@@ -1,0 +1,16 @@
+{
+  "name": "rocketmath-automation-thing",
+  "version": "1.0.0",
+  "description": "A Chrome Extension (Manifest V3) that automates solving \"Equivalent Fractions\" levels on [play.rocketmath.com](https://play.rocketmath.com) using Groq's Vision API.",
+  "main": "background.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "fraction.js": "^5.3.4"
+  }
+}
